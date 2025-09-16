@@ -1,4 +1,4 @@
-# Git-n-Go: A playful place to take on a BIG project with limited knowledge!  
+# Git-n-Go: A playful place to take on a BIG project with limited knowledge!!  
 
 👋 Hi, I’m @couleidos! I initially created this repo to learn the basics. Now I need a space to practice editing, adding, merging, cloning, or whatever the hell this involves with a few people on my awesome team!
 
