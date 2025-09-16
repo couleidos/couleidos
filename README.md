@@ -1,4 +1,4 @@
-# Git-n-Go: A playful place to take on a BIG project with limited knowledge!!  
+# Git-n-Go: A playful place to practice taking on a BIG project with limited knowledge!!  
 
 👋 Hi, I’m @couleidos! I initially created this repo to learn the basics. Now I need a space to practice editing, adding, merging, cloning, or whatever the hell this involves with a few people on my awesome team!
 
@@ -10,7 +10,7 @@ I used https://github.com/skills/introduction-to-github to learn the basics to c
 - 📫 How to reach me: coulee.eidos@gmail.com or if you are a friend of a friend, you can find me on facebook - maybe! 
 - 😄 Pronouns: She/Her/Them - HUMAN!
 - ⚡ Fun fact: I appear as an extrovert. BUT I AM an introvert. I learned over the years to come out of my shell. I'm still not sure if that is a good or bad thing.
-<!---
+  <!---
 couleidos/couleidos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
