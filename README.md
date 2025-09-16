@@ -4,7 +4,7 @@
 
 I used https://github.com/skills/introduction-to-github to learn the basics to creat this, but 8 months later, I am still lost. Time to REALLY dive in!
 
-- 👀 I love all things history: the dark crazy stuff, the messy stuff, how folk overcame ALL of that, cemetery preservation, literature (pretty much ALL genres) b/c the oral and written word is like oxygen! it brings me life! I find JOY and REJUVENATION when hiking amongst trees and I breathe in the energies of the Tar and Roanoke Rivers, Upper Fishing Creak, and ANY OCEAN I can get to!
+- 👀 I love all things history: The dark crazy stuff, the messy stuff, how folk overcame ALL of that, cemetery preservation, literature (pretty much ALL genres) b/c the oral and written word is like oxygen! it brings me life! I find JOY and REJUVENATION when hiking amongst trees and I breathe in the energies of the Tar and Roanoke Rivers, Upper Fishing Creak, and ANY OCEAN I can get to!
 - 🌱 I’m currently learning about AI! I'm fascinated with the intersection of culture and technology. AND - cybersecurity! The world could actually go bananas if the right CRAZY, foolish, and selfish hacker brought down all systems. Like WHYYY are we subject to that mess? 
 - 💞️ I’m looking to collaborate on the above items of interest and learning opportunities. My degrees are in Africana Studies and English and I am a bootleg techie, soI'm happy to collaborate and share my expertise in those areas.
 - 📫 How to reach me: coulee.eidos@gmail.com or if you are a friend of a friend, you can find me on facebook - maybe! 
